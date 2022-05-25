@@ -1,6 +1,6 @@
 # face-GNN
 
-![](./gaze.gif)  
+![](./gif1.gif)  
 
 <p float="left">
 <img src="./img1.png" width=30% height=30%>
